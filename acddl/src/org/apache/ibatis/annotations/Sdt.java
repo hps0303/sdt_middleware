@@ -16,8 +16,3 @@ public @interface Sdt
 
   String tbn();
 }
-
-/* Location:           C:\Users\ad\Desktop\cloudy-cddl-1.0.37.jar
- * Qualified Name:     org.apache.ibatis.annotations.Sdt
- * JD-Core Version:    0.6.1
- */
